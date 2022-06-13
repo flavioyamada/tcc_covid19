@@ -1,5 +1,7 @@
 IBGE_FTP_BASE_URL = 'https://ftp.ibge.gov.br/Censos/Censo_Demografico_2010/{}'
 
+NUMBER_FILE = 7
+
 SOURCE_URLS = {
     "conjunto1.zip": IBGE_FTP_BASE_URL.format('Aglomerados_subnormais/Aglomerados_subnormais_informacoes_territoriais/tabelas_xls/UFs_Municipios.zip'),
     "conjunto2.zip": IBGE_FTP_BASE_URL.format('Entorno_dos_Domicilios/xls/Municipios/sao_paulo.zip'),
