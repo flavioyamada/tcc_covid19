@@ -1,5 +1,7 @@
 # TCC COVID19
 
-Descrição.
+O vírus da COVID-19 causou um impacto global significativo, alterando profundamente a forma como as pessoas interagem, moldando e construindo novos pensamentos e impulsionando ainda mais o sentimento de coletividade. No entanto, também expôs a disparidade socioeconômica, evidenciando as diferenças sociais existentes na sociedade e destacando a importância da eficiência na gestão de determinadas regiões. O presente trabalho propõe uma abordagem computacional com a finalidade de investigar a correlação entre dados socioeconômicos e taxas de mortalidade por COVID-19 em municípios do estado de São Paulo, considerando o saneamento básico como ponto principal de discussão. A aplicabilidade da abordagem proposta é exemplificada por meio de um estudo de caso com dados reais, onde são utilizados métodos estatísticos de correlação de MIC, buscando-se aprimorar e aumentar a confiabilidade das relações entre as variáveis de interesse. Os resultados revelam uma correlação moderada entre taxa de mortalidade e a presença de saneamento básico em um curto período, auxiliando no entendimento das motivações que levaram à rápida proliferação do vírus. Desta forma, o trabalho contribui para que outros estudos com o mesmo intuito também se completem e ajudem a entender os impactos causados pela COVID-19.
+
+Arquivo para o Google Colab se apresenta como projeto_covid19_IFSP_JCR_v3
 
 ## Demais detalhes
